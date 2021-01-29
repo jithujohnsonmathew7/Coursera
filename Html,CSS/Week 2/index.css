@@ -1,0 +1,47 @@
+body {
+    padding: 20px;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+}
+
+.row {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.block {
+    margin-top: 30px;
+    width: 350px;
+    display: inline-block;
+    border: 10px;
+    padding: 20px;
+    justify-content: space-between;
+    text-align: justify;
+}
+
+.border-primary {
+    background-color: aquamarine;
+}
+
+.border-danger {
+    background-color: brown;
+}
+
+.border-success {
+    background-color: lightcyan;
+}
+
+#chicken {
+    text-align: left;
+}
+
+#beef {
+    text-align: left;
+}
+
+#sushi {
+    text-align: left;
+}
